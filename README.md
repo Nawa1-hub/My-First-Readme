@@ -1,2 +1,2 @@
 # DETECTOR
-A lie detector 
+This is a lie detector
