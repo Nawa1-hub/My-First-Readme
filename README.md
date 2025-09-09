@@ -1,2 +1,2 @@
-# My-First-Readme
-It's a lie detector 
+# DETECTOR
+A lie detector 
