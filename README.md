@@ -20,7 +20,7 @@ Lie Detector welcomes contributions from all sources that wish to share our visi
 3. Design: improvement of design, which includes the UI/UX enhancements and visual assets.
 
 ### 🤵AUTHOR: 
-** Nawa1-hub: 
+Nawa1-hub: 
 https://github.com/Nawa1-hub
 
 ### 📄License and Copyright©️ 
