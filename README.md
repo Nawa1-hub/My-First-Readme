@@ -1,4 +1,4 @@
-00# ☄️LIE DETECTOR
+### ☄️LIE DETECTOR
 
 ### 📝DESCRIPTION: 
 This software was developed to detect a lie through biometric procedures. 
