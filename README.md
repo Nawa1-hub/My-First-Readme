@@ -19,6 +19,10 @@ Lie Detector welcomes contributions from all sources that wish to share our visi
 
 3. Design: improvement of design, which includes the UI/UX enhancements and visual assets.
 
+## 🤵AUTHOR: 
+Nawa1-hub: 
+https://github.com/Nawa1-hub
+
 ## 📄License and Copyright©️ 
 Lie Detector is Licensed under the MIT License. By contributing to the project, you agree to release your contributions under this license. 
 
