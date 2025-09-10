@@ -1,4 +1,4 @@
-# ☄️LIE DETECTOR
+00# ☄️LIE DETECTOR
 
 ### 📝DESCRIPTION: 
 This software was developed to detect a lie through biometric procedures. 
@@ -24,7 +24,4 @@ Nawa1-hub:
 https://github.com/Nawa1-hub
 
 ### 📄License and Copyright©️ 
-Lie Detector is Licensed under the MIT License. By contributing to the project, you agree to release your contributions under this license. 
-
-
-
+Lie Detector is Licensed under the GNU AFFERO GENERAL PUBLIC LICENSE. By contributing to the project, you agree to release your contributions under this license.
