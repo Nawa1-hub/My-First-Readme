@@ -1,6 +1,6 @@
 # ☄️LIE DETECTOR
 
-## 📝DESCRIPTION: 
+### 📝DESCRIPTION: 
 This software was developed to detect a lie through biometric procedures. 
 
 ## ⚙️INSTALLATION INSTRUCTIONS: 
