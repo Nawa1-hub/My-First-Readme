@@ -1,7 +1,9 @@
 ## ☄️LIE DETECTOR
 
+
 ### 📝DESCRIPTION: 
 This software was developed to detect a lie through biometric procedures. 
+
 
 ### ⚙️INSTALLATION INSTRUCTIONS: 
 Step 1: Download the software on your device and install it.
@@ -9,6 +11,7 @@ Step 1: Download the software on your device and install it.
 Step 2: Sign up with your finger print and then enter your personal credentials. 
 
 Step 3: Follow all biometric security Protocols step by step.
+
 
 ### ✏️CONTRIBUTING GUILDLINES:
 Lie Detector welcomes contributions from all sources that wish to share our vision and help make it a reality. 
@@ -19,9 +22,11 @@ Lie Detector welcomes contributions from all sources that wish to share our visi
 
 3. Design: improvement of design, which includes the UI/UX enhancements and visual assets.
 
+
 ### 🤵AUTHOR: 
 Nawa1-hub: 
 https://github.com/Nawa1-hub
+
 
 ### 📄License and Copyright©️ 
 Lie Detector is Licensed under the GNU AFFERO GENERAL PUBLIC LICENSE. By contributing to the project, you agree to release your contributions under this license.
