@@ -13,6 +13,9 @@ Step 2: Sign up with your finger print and then enter your personal credentials.
 Step 3: Follow all biometric security Protocols step by step.
 
 
+### 🚀USAGE: 
+look straight into the camera and let the device scan your face while you tackle queries.
+
 ### ✏️CONTRIBUTING GUILDLINES:
 Lie Detector welcomes contributions from all sources that wish to share our vision and help make it a reality. 
 
